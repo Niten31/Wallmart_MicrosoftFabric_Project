@@ -1,0 +1,4 @@
+category,holdout_units,lgbm_daily_mape_pct,baseline_daily_mape_pct
+FOODS,90833,8.4,13.7
+HOUSEHOLD,27794,5.2,18.0
+HOBBIES,15405,11.6,17.8
